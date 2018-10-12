@@ -1,0 +1,2 @@
+Данные материалы взяты с сайта:
+https://star.inp.nsk.su/~grozin/python/
