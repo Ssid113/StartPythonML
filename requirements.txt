@@ -5,6 +5,4 @@ matplotlib
 seaborn
 scikit-learn
 mpmath
-theano
 sympy
-keras
